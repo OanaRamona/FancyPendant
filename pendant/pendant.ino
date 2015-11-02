@@ -12,6 +12,7 @@ int16_t  hue          =   0; // Initial hue around perimeter (0-1535)
 
 Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
 
+/*add comments TBD */
 void setup()
 {
   pixels.begin();
