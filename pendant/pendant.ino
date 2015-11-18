@@ -9,6 +9,7 @@
 //oana
 
 unsigned int NeoRed[NUMPIXELS];
+--
 unsigned int NeoGreen[NUMPIXELS];
 unsigned int NeoBlue[NUMPIXELS];
 int16_t  hue          =   0; // Initial hue around perimeter (0-1535)
