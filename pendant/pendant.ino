@@ -6,7 +6,7 @@
 #define PIN 0
 #define NUMPIXELS 16
 // ....
-//
+//oana
 
 unsigned int NeoRed[NUMPIXELS];
 unsigned int NeoGreen[NUMPIXELS];
